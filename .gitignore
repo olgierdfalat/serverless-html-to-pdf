@@ -9,3 +9,4 @@ jspm_packages
 .webpack
 .DS_Store
 .vscode
+.history
